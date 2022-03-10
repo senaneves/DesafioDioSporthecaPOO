@@ -24,7 +24,8 @@ public class Main {
 		cCorrente.trasnferir(50, cPoupanca);
 		cCorrente.imprimirExtrato();
 		cPoupanca.imprimirExtrato();
-				
+		
+			
 	}
 
 }
